@@ -1,3 +1,5 @@
+// Example C++ hello world code
+
 #include <iostream>
 
 int main() {
