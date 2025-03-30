@@ -2,7 +2,9 @@
 
 #include <stdio.h>
 
+const char* test() { return "hello, world"; }
+
 int main() {
-	puts("hello, world");
+	puts(test());
 	return 0;
 }
